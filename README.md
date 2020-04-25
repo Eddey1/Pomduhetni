@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Mirë se vini në Pomduhetni
 
 You can use the [editor on GitHub](https://github.com/Eddey1/Pomduhetni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Pomduhetni
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pomduhetni është një webfaqe e ndërtuar me iden e ofrimit të sherbimeve dhe gjetjes më të shpejt të asaj cfarë keni nevoj. Përmban kategorit si më posht/
 
 ```markdown
 Syntax highlighted code block
